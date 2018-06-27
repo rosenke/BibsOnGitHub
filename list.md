@@ -149,6 +149,15 @@ Staats- und Universitätsbibliothek Hamburg
 Bern University Library
 [https://github.com/UB-Bern](https://github.com/UB-Bern)
 
+Universitätsbibliothek der Technischen Universität Wien
+[https://github.com/UBTUW](https://github.com/UBTUW)
+
+FID Jüdische Studien
+[https://github.com/FID-Judaica](https://github.com/FID-Judaica)
+
+Fachinformationsdienst Darstellende Kunst
+[https://github.com/FID-Darstellende-Kunst](https://github.com/FID-Darstellende-Kunst)
+
 Developers, Librarians
 ----------------------
 
@@ -194,6 +203,9 @@ Paul Dodd (UB Bern)
 Ralf Eichinger (MDZ)
 [https://github.com/datazuul](https://github.com/datazuul)
 
+Christian Erlinger
+[https://github.com/LibrErli](https://github.com/LibrErli)
+
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
@@ -208,6 +220,9 @@ Christian Hauschke
 
 Lambert Heller
 [https://github.com/lambo](https://github.com/lambo)
+
+Elisa Herrmann (HAB Wolfenbüttel)
+[https://github.com/ehrmn](https://github.com/ehrmn)
 
 Moritz Horn
 [https://github.com/hornmo](https://github.com/hornmo)
@@ -250,6 +265,9 @@ Jens Mittelbach (SLUB)
 
 Joachim Neubert (ZBW)
 [https://github.com/jneubert](https://github.com/jneubert)
+
+Clemens Neudecker (SBB Berlin)
+[https://github.com/cneud](https://github.com/cneud)
 
 Oliver Obenland (UB Tübingen)
 [https://github.com/oobenland](https://github.com/oobenland)
@@ -316,6 +334,12 @@ Dulip Withanage (UB Heidelberg)
 
 Nils Witt (ZBW)
 [https://github.com/n-witt](https://github.com/n-witt)
+
+Torsten Witt (SUBHH)
+[https://github.com/percolatorWitt](https://github.com/percolatorWitt)
+
+Kay-Michael Würzner (BBAW)
+[https://github.com/wrznr](https://github.com/wrznr)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
